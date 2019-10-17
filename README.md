@@ -1,2 +1,2 @@
 # Python Labs
- Python exercises and labs for Open Source App Dev 
+ Python exercises and labs for Open Source App Development
