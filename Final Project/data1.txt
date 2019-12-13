@@ -1,0 +1,11 @@
+Name 	 Area
+('Cube', 24)
+('Cube', 24)
+('Cube', 24)
+('Cube', 24)
+('Square', '5.29')
+('Cube', 24)
+('Square', '5.29')
+('Square', '5.29')
+('Square', '5.29')
+('Circle', '3.14')
